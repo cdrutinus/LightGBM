@@ -1,0 +1,1 @@
+Ceci est un projet de recherche dans le cadre du cours Algorithms in Machine Learning de la filière Sciences des Données et de la Décision à l'iSAE-SUPAERO.
